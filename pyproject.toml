@@ -1,0 +1,12 @@
+[project]
+name = "agent-foundation-models"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.0.0",
+    "requests>=2.32.5",
+    "torch>=2.8.0",
+    "transformers>=4.55.4",
+]
